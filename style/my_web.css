@@ -5,6 +5,7 @@ body{
     color: rgb(255, 157, 0);
 }
 .header{
+   
     /* background-image: url('../images/circle.png'); */
    
     background-repeat: no-repeat;
@@ -30,6 +31,8 @@ nav{
     align-items: center;
     justify-content: space-between;
     margin: 0 200px;
+    border: solid #fff8f;
+    background-color: #fff8f3;
 }
 
 .nav-title{
