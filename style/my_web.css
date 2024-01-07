@@ -5,7 +5,7 @@ body{
     color: rgb(255, 157, 0);
 }
 .header{
-    background-image: url('../images/circle.png');
+    /* background-image: url('../images/circle.png'); */
    
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -89,4 +89,16 @@ nav a{
     border-radius: 10px;
     background: #fff8f3;
     margin: 130 0;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
